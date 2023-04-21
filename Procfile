@@ -1,1 +1,1 @@
-web: gunicorn CombatStats.py:application
+web: gunicorn --timeout 600 --chdir src app:server
