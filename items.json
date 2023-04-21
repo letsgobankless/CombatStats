@@ -1,0 +1,2092 @@
+{
+   "1":{
+      "Name":"Camo Hat",
+      "Slot":"head",
+      "Rarity":"Common",
+      "Type":"Hat",
+      "Vision Range":9,
+      "AP Regen":0.222
+   },
+   "2":{
+      "Name":"Camo Pants",
+      "Slot":"body",
+      "Rarity":"Common",
+      "Type":"Pants",
+      "Carrying Capacity":9.5,
+      "Movement Speed":0.632
+   },
+   "3":{
+      "Name":"MK2 Grenade",
+      "Slot":"hands",
+      "Rarity":"Common",
+      "Type":"Ranged Weapon",
+      "Ranged Power":33.2,
+      "AP Cost Multiplier":1.1
+   },
+   "4":{
+      "Name":"Snow Camo Hat",
+      "Slot":"head",
+      "Rarity":"Uncommon",
+      "Type":"Hat",
+      "Vision Range":20.5,
+      "AP Regen":0.39
+   },
+   "5":{
+      "Name":"Snow Camo Pants",
+      "Slot":"body",
+      "Rarity":"Uncommon",
+      "Type":"Pants",
+      "Carrying Capacity":20.5,
+      "Movement Speed":1.17
+   },
+   "6":{
+      "Name":"M67 Grenade",
+      "Slot":"hands",
+      "Rarity":"Uncommon",
+      "Type":"Ranged Weapon",
+      "Ranged Power":67.5,
+      "AP Cost Multiplier":1.2
+   },
+   "7":{
+      "Name":"Marine Cap",
+      "Slot":"head",
+      "Rarity":"Rare",
+      "Type":"Cap",
+      "AP Regen":0.63,
+      "Luck":0.067
+   },
+   "8":{
+      "Name":"Marine Jacket",
+      "Slot":"body",
+      "Rarity":"Rare",
+      "Type":"Jacket",
+      "Carrying Capacity":36,
+      "HP Capacity":389
+   },
+   "9":{
+      "Name":"Walkie Talkie",
+      "Slot":"hands",
+      "Rarity":"Rare",
+      "Type":"Electronics",
+      "Evasion":0.022,
+      "AP Regen":0.683
+   },
+   "10":{
+      "Name":"Link White Hat",
+      "Slot":"head",
+      "Rarity":"Legendary",
+      "Type":"Cap",
+      "AP Regen":1.07,
+      "Luck":0.078
+   },
+   "11":{
+      "Name":"Link Mess Dress",
+      "Slot":"body",
+      "Rarity":"Legendary",
+      "Type":"Jacket",
+      "Carrying Capacity":82,
+      "HP Capacity":507
+   },
+   "12":{
+      "Name":"Link Bubbly",
+      "Slot":"hands",
+      "Rarity":"Legendary",
+      "Type":"Alcoholic Beverage",
+      "Luck":0.086,
+      "HP Capacity":484
+   },
+   "13":{
+      "Name":"Sergey Beard",
+      "Slot":"face",
+      "Rarity":"Mythical",
+      "Type":"Facial Hair",
+      "Evasion":0.04,
+      "Alchemica Speed":0
+   },
+   "14":{
+      "Name":"Sergey Eyes",
+      "Slot":"eyes",
+      "Rarity":"Mythical",
+      "Type":"Eye",
+      "Vision Range":75.9,
+      "HP Capacity":722
+   },
+   "15":{
+      "Name":"Red Plaid",
+      "Slot":"body",
+      "Rarity":"Mythical",
+      "Type":"Dress Shirt",
+      "Armor Power":66.6,
+      "HP Regen":4.93
+   },
+   "16":{
+      "Name":"Blue Plaid",
+      "Slot":"body",
+      "Rarity":"Godlike",
+      "Type":"Dress Shirt",
+      "Armor Power":90,
+      "HP Regen":6.67
+   },
+   "17":{
+      "Name":"Link Cube",
+      "Slot":"hands",
+      "Rarity":"Godlike",
+      "Type":"Ranged Weapon",
+      "Ranged Power":266.5,
+      "AP Cost Multiplier":1.6
+   },
+   "18":{
+      "Name":"Aave Hero Mask",
+      "Slot":"face",
+      "Rarity":"Common",
+      "Type":"Mask",
+      "Evasion":0.012
+   },
+   "19":{
+      "Name":"Aave Hero Shirt",
+      "Slot":"body",
+      "Rarity":"Common",
+      "Type":"T-Shirt",
+      "AP Regen":0.205,
+      "Road Speed":0
+   },
+   "20":{
+      "Name":"Aave Plush",
+      "Slot":"hands",
+      "Rarity":"Common",
+      "Type":"Shield",
+      "Armor Power":10.8,
+      "HP Capacity":93
+   },
+   "21":{
+      "Name":"Captain Aave Mask",
+      "Slot":"head",
+      "Rarity":"Uncommon",
+      "Type":"Mask",
+      "Evasion":0.024
+   },
+   "22":{
+      "Name":"Captain Aave Suit",
+      "Slot":"body",
+      "Rarity":"Uncommon",
+      "Type":"Light Armor",
+      "Armor Power":20.5,
+      "Movement Speed":1.17
+   },
+   "23":{
+      "Name":"Captain Aave Shield",
+      "Slot":"hands",
+      "Rarity":"Uncommon",
+      "Type":"Shield",
+      "Armor Power":19,
+      "HP Capacity":211
+   },
+   "24":{
+      "Name":"Thaave Helmet",
+      "Slot":"head",
+      "Rarity":"Rare",
+      "Type":"Helmet",
+      "Armor Power":33.3,
+      "AP Capacity":36.8
+   },
+   "25":{
+      "Name":"Thaave Suit",
+      "Slot":"body",
+      "Rarity":"Rare",
+      "Type":"Light Armor",
+      "Armor Power":33.3,
+      "Movement Speed":2.21
+   },
+   "26":{
+      "Name":"Thaave Hammer",
+      "Slot":"hands",
+      "Rarity":"Rare",
+      "Type":"Melee Weapon",
+      "Melee Power":176,
+      "AP Cost Multiplier":1.3
+   },
+   "27":{
+      "Name":"Marc Hair",
+      "Slot":"head",
+      "Rarity":"Legendary",
+      "Type":"Hair",
+      "Evasion":0.034,
+      "HP Regen":2.9
+   },
+   "28":{
+      "Name":"Marc Outfit",
+      "Slot":"body",
+      "Rarity":"Legendary",
+      "Type":"Dress Suit",
+      "Carrying Capacity":76,
+      "HP Regen":3.28
+   },
+   "29":{
+      "Name":"REKT Sign",
+      "Slot":"right hand",
+      "Rarity":"Legendary",
+      "Type":"Sign",
+      "Evasion":0.03,
+      "Luck":0.084
+   },
+   "30":{
+      "Name":"Jordan Hair",
+      "Slot":"head",
+      "Rarity":"Mythical",
+      "Type":"Long Hair",
+      "Evasion":0.042,
+      "HP Capacity":779
+   },
+   "31":{
+      "Name":"Jordan Suit",
+      "Slot":"body",
+      "Rarity":"Mythical",
+      "Type":"Dress Suit",
+      "Carrying Capacity":143,
+      "HP Regen":4.67
+   },
+   "32":{
+      "Name":"Aave Flag",
+      "Slot":"hands",
+      "Rarity":"Mythical",
+      "Type":"Sign",
+      "Evasion":0.042,
+      "Luck":0.105
+   },
+   "33":{
+      "Name":"Stani Hair",
+      "Slot":"head",
+      "Rarity":"Godlike",
+      "Type":"Hair",
+      "Evasion":0.065,
+      "HP Regen":5.58
+   },
+   "34":{
+      "Name":"Stani Vest",
+      "Slot":"body",
+      "Rarity":"Godlike",
+      "Type":"Jacket",
+      "Carrying Capacity":308,
+      "HP Capacity":976
+   },
+   "35":{
+      "Name":"Aave Boat",
+      "Slot":"pet",
+      "Rarity":"Godlike",
+      "Type":"Vehicle",
+      "Road Speed":0,
+      "Movement Speed":6.32
+   },
+   "36":{
+      "Name":"ETH Logo Glasses",
+      "Slot":"eyes",
+      "Rarity":"Common",
+      "Type":"Shades",
+      "Vision Range":10.8,
+      "AP Capacity":9.3
+   },
+   "37":{
+      "Name":"ETH Tshirt",
+      "Slot":"body",
+      "Rarity":"Common",
+      "Type":"T-Shirt",
+      "AP Regen":0.215,
+      "Road Speed":0
+   },
+   "38":{
+      "Name":"32 ETH Coin",
+      "Slot":"right hand",
+      "Rarity":"Common",
+      "Type":"Token",
+      "Luck":0.022,
+      "Alchemica Speed":0
+   },
+   "39":{
+      "Name":"Foxy Mask",
+      "Slot":"head",
+      "Rarity":"Uncommon",
+      "Type":"Mask",
+      "Evasion":0.024
+   },
+   "40":{
+      "Name":"Foxy Tail",
+      "Slot":"pet",
+      "Rarity":"Uncommon",
+      "Type":"Animal",
+      "Alchemica Speed":0,
+      "AP Capacity":22.2
+   },
+   "41":{
+      "Name":"Trezor Wallet",
+      "Slot":"hands",
+      "Rarity":"Uncommon",
+      "Type":"Electronics",
+      "Evasion":0.011,
+      "AP Regen":0.444
+   },
+   "42":{
+      "Name":"Eagle Mask",
+      "Slot":"head",
+      "Rarity":"Rare",
+      "Type":"Mask",
+      "Evasion":0.042
+   },
+   "43":{
+      "Name":"Eagle Armor",
+      "Slot":"body",
+      "Rarity":"Rare",
+      "Type":"Heavy Armor",
+      "Armor Power":70.1
+   },
+   "44":{
+      "Name":"DAO Egg",
+      "Slot":"right hand",
+      "Rarity":"Rare",
+      "Type":"Artifact",
+      "Luck":0.054,
+      "HP Regen":2.33
+   },
+   "45":{
+      "Name":"Ape Mask",
+      "Slot":"head",
+      "Rarity":"Legendary",
+      "Type":"Mask",
+      "Evasion":0.063
+   },
+   "46":{
+      "Name":"Halfrekt Shirt",
+      "Slot":"body",
+      "Rarity":"Legendary",
+      "Type":"T-Shirt",
+      "AP Regen":0.988,
+      "Road Speed":0
+   },
+   "47":{
+      "Name":"Waifu Pillow",
+      "Slot":"hands",
+      "Rarity":"Legendary",
+      "Type":"Pillow",
+      "HP Capacity":559,
+      "HP Regen":2.9
+   },
+   "48":{
+      "Name":"Xibot Mohawk",
+      "Slot":"head",
+      "Rarity":"Mythical",
+      "Type":"Hair",
+      "Evasion":0.048,
+      "HP Regen":4.13
+   },
+   "49":{
+      "Name":"Coderdan Shades",
+      "Slot":"eyes",
+      "Rarity":"Mythical",
+      "Type":"Shades",
+      "Vision Range":79.6,
+      "AP Capacity":68.8
+   },
+   "50":{
+      "Name":"GldnXross Robe",
+      "Slot":"body",
+      "Rarity":"Mythical",
+      "Type":"Robe",
+      "AP Capacity":75.9,
+      "Carrying Capacity":146
+   },
+   "51":{
+      "Name":"Mudgen Diamond",
+      "Slot":"hands",
+      "Rarity":"Mythical",
+      "Type":"Ranged Weapon",
+      "Ranged Power":217.5,
+      "AP Cost Multiplier":1.5
+   },
+   "52":{
+      "Name":"Galaxy Brain",
+      "Slot":"head",
+      "Rarity":"Godlike",
+      "Type":"Body Part",
+      "HP Capacity":1030,
+      "AP Regen":1.95
+   },
+   "53":{
+      "Name":"All-Seeing Eyes",
+      "Slot":"eyes",
+      "Rarity":"Godlike",
+      "Type":"Eye",
+      "Vision Range":95,
+      "HP Capacity":1050
+   },
+   "54":{
+      "Name":"Llamacorn Shirt",
+      "Slot":"body",
+      "Rarity":"Godlike",
+      "Type":"T-Shirt",
+      "AP Regen":2.15,
+      "Road Speed":0
+   },
+   "55":{
+      "Name":"Aagent Headset",
+      "Slot":"face",
+      "Rarity":"Rare",
+      "Type":"Electronics",
+      "Evasion":0.02,
+      "AP Regen":0.737
+   },
+   "56":{
+      "Name":"Aagent Shirt",
+      "Slot":"body",
+      "Rarity":"Rare",
+      "Type":"T-Shirt",
+      "AP Regen":0.753,
+      "Road Speed":0
+   },
+   "57":{
+      "Name":"Aagent Shades",
+      "Slot":"eyes",
+      "Rarity":"Rare",
+      "Type":"Shades",
+      "Vision Range":35.9,
+      "AP Capacity":34.1
+   },
+   "58":{
+      "Name":"Aagent Pistol",
+      "Slot":"hands",
+      "Rarity":"Rare",
+      "Type":"Ranged Weapon",
+      "Ranged Power":117,
+      "AP Cost Multiplier":1.3
+   },
+   "59":{
+      "Name":"Aagent Fedora Hat",
+      "Slot":"head",
+      "Rarity":"Rare",
+      "Type":"Hat",
+      "Vision Range":35.9,
+      "AP Regen":0.683
+   },
+   "60":{
+      "Name":"Common Wizard Hat",
+      "Slot":"head",
+      "Rarity":"Common",
+      "Type":"Big Hat",
+      "Vision Range":9.5,
+      "HP Regen":0.632
+   },
+   "61":{
+      "Name":"Legendary Wizard Hat ",
+      "Slot":"head",
+      "Rarity":"Legendary",
+      "Type":"Big Hat",
+      "Vision Range":55.9,
+      "HP Regen":2.9
+   },
+   "62":{
+      "Name":"Mythical Wizard Hat ",
+      "Slot":"head",
+      "Rarity":"Mythical",
+      "Type":"Big Hat",
+      "Vision Range":70.3,
+      "HP Regen":4.67
+   },
+   "63":{
+      "Name":"Godlike Wizard Hat ",
+      "Slot":"head",
+      "Rarity":"Godlike",
+      "Type":"Big Hat",
+      "Vision Range":95,
+      "HP Regen":6.32
+   },
+   "64":{
+      "Name":"Common Wizard Staff",
+      "Slot":"hands",
+      "Rarity":"Common",
+      "Type":"Ranged Weapon",
+      "Ranged Power":33,
+      "AP Cost Multiplier":1.1
+   },
+   "65":{
+      "Name":"Legendary Wizard Staff",
+      "Slot":"hands",
+      "Rarity":"Legendary",
+      "Type":"Ranged Weapon",
+      "Ranged Power":167,
+      "AP Cost Multiplier":1.4
+   },
+   "66":{
+      "Name":"Wizard Visor",
+      "Slot":"eyes",
+      "Rarity":"Common",
+      "Type":"Glasses",
+      "Vision Range":20
+   },
+   "67":{
+      "Name":"Straw Hat",
+      "Slot":"head",
+      "Rarity":"Common",
+      "Type":"Big Hat",
+      "Vision Range":9,
+      "HP Regen":0.667
+   },
+   "68":{
+      "Name":"Farmer Jeans",
+      "Slot":"body",
+      "Rarity":"Common",
+      "Type":"Pants",
+      "Carrying Capacity":9,
+      "Movement Speed":0.667
+   },
+   "69":{
+      "Name":"Pitchfork",
+      "Slot":"hands",
+      "Rarity":"Common",
+      "Type":"Melee Weapon",
+      "Melee Power":50,
+      "AP Cost Multiplier":1.1
+   },
+   "70":{
+      "Name":"Handsaw ",
+      "Slot":"hands",
+      "Rarity":"Mythical",
+      "Type":"Melee Weapon",
+      "Melee Power":327,
+      "AP Cost Multiplier":1.5
+   },
+   "71":{
+      "Name":"Red Santa Hat",
+      "Slot":"head",
+      "Rarity":"Rare",
+      "Type":"Knit Hat",
+      "HP Capacity":376,
+      "Movement Speed":1.95
+   },
+   "72":{
+      "Name":"Jaay Hairpiece",
+      "Slot":"head",
+      "Rarity":"Mythical",
+      "Type":"Hair",
+      "Evasion":0.046,
+      "HP Regen":4.33
+   },
+   "73":{
+      "Name":"Jaay Glasses",
+      "Slot":"eyes",
+      "Rarity":"Mythical",
+      "Type":"Glasses",
+      "Vision Range":148
+   },
+   "74":{
+      "Name":"Jaay Suit",
+      "Slot":"body",
+      "Rarity":"Mythical",
+      "Type":"Dress Suit",
+      "Carrying Capacity":154,
+      "HP Regen":4.33
+   },
+   "75":{
+      "Name":"OKex Sign",
+      "Slot":"hands",
+      "Rarity":"Mythical",
+      "Type":"Sign",
+      "Evasion":0.046,
+      "Luck":0.098
+   },
+   "76":{
+      "Name":"Big GHST Token",
+      "Slot":"right hand",
+      "Rarity":"Common",
+      "Type":"Token",
+      "Luck":0.019,
+      "Alchemica Speed":0
+   },
+   "77":{
+      "Name":"Bitcoin Beanie",
+      "Slot":"head",
+      "Rarity":"Uncommon",
+      "Type":"Knit Hat",
+      "HP Capacity":190,
+      "Movement Speed":1.26
+   },
+   "78":{
+      "Name":"Black Jeans",
+      "Slot":"body",
+      "Rarity":"Uncommon",
+      "Type":"Pants",
+      "Carrying Capacity":19,
+      "Movement Speed":1.26
+   },
+   "79":{
+      "Name":"Skateboard",
+      "Slot":"hands",
+      "Rarity":"Rare",
+      "Type":"Vehicle",
+      "Road Speed":0,
+      "Movement Speed":2.21
+   },
+   "80":{
+      "Name":"Sushi Bandana",
+      "Slot":"head",
+      "Rarity":"Rare",
+      "Type":"Sportswear",
+      "Movement Speed":1.89,
+      "AP Regen":0.778
+   },
+   "81":{
+      "Name":"Sushi Coat",
+      "Slot":"body",
+      "Rarity":"Rare",
+      "Type":"Robe",
+      "AP Capacity":35.9,
+      "Carrying Capacity":39
+   },
+   "82":{
+      "Name":"Sushi Piece",
+      "Slot":"hands",
+      "Rarity":"Legendary",
+      "Type":"Healthy Edible",
+      "HP Regen":6.24
+   },
+   "83":{
+      "Name":"Sushi Knife",
+      "Slot":"hands",
+      "Rarity":"Rare",
+      "Type":"Melee Weapon",
+      "Melee Power":175,
+      "AP Cost Multiplier":1.3
+   },
+   "84":{
+      "Name":"Gentleman Hat",
+      "Slot":"head",
+      "Rarity":"Legendary",
+      "Type":"Hat",
+      "Vision Range":53.3,
+      "AP Regen":1.02
+   },
+   "85":{
+      "Name":"Gentleman Coat",
+      "Slot":"body",
+      "Rarity":"Legendary",
+      "Type":"Dress Suit",
+      "Carrying Capacity":82,
+      "HP Regen":3.04
+   },
+   "86":{
+      "Name":"Monocle ",
+      "Slot":"eyes",
+      "Rarity":"Mythical",
+      "Type":"Glasses",
+      "Vision Range":148
+   },
+   "87":{
+      "Name":"Miner Helmet",
+      "Slot":"head",
+      "Rarity":"Uncommon",
+      "Type":"Helmet",
+      "Armor Power":19,
+      "AP Capacity":21.1
+   },
+   "88":{
+      "Name":"Miner Jeans",
+      "Slot":"body",
+      "Rarity":"Uncommon",
+      "Type":"Pants",
+      "Carrying Capacity":18,
+      "Movement Speed":1.33
+   },
+   "89":{
+      "Name":"Pickaxe ",
+      "Slot":"hands",
+      "Rarity":"Rare",
+      "Type":"Melee Weapon",
+      "Melee Power":175,
+      "AP Cost Multiplier":1.3
+   },
+   "90":{
+      "Name":"Pajama Hat",
+      "Slot":"head",
+      "Rarity":"Common",
+      "Type":"Knit Hat",
+      "HP Capacity":103,
+      "Movement Speed":0.585
+   },
+   "91":{
+      "Name":"Pajama Shirt",
+      "Slot":"body",
+      "Rarity":"Uncommon",
+      "Type":"Comfywear",
+      "Armor Power":20.5,
+      "Road Speed":0
+   },
+   "92":{
+      "Name":"Bedtime Milk",
+      "Slot":"hands",
+      "Rarity":"Rare",
+      "Type":"Healthy Beverage",
+      "HP Capacity":700
+   },
+   "93":{
+      "Name":"Fluffy Pillow",
+      "Slot":"hands",
+      "Rarity":"Legendary",
+      "Type":"Pillow",
+      "HP Capacity":533,
+      "HP Regen":3.04
+   },
+   "94":{
+      "Name":"Sweatband",
+      "Slot":"head",
+      "Rarity":"Uncommon",
+      "Type":"Sportswear",
+      "Movement Speed":1.23,
+      "AP Regen":0.39
+   },
+   "95":{
+      "Name":"Track Shorts",
+      "Slot":"body",
+      "Rarity":"Uncommon",
+      "Type":"Sportswear",
+      "Movement Speed":1.29,
+      "AP Regen":0.372
+   },
+   "96":{
+      "Name":"Water bottle",
+      "Slot":"hands",
+      "Rarity":"Uncommon",
+      "Type":"Healthy Beverage",
+      "HP Capacity":400
+   },
+   "97":{
+      "Name":"Pillbox Hat",
+      "Slot":"head",
+      "Rarity":"Legendary",
+      "Type":"Hat",
+      "Vision Range":55.9,
+      "AP Regen":0.967
+   },
+   "98":{
+      "Name":"Day Dress",
+      "Slot":"body",
+      "Rarity":"Legendary",
+      "Type":"Dress",
+      "Carrying Capacity":86,
+      "AP Regen":0.967
+   },
+   "99":{
+      "Name":"Parasol",
+      "Slot":"hands",
+      "Rarity":"Mythical",
+      "Type":"Accessory",
+      "AP Capacity":70.3,
+      "Luck":0.105
+   },
+   "100":{
+      "Name":"Clutch",
+      "Slot":"hands",
+      "Rarity":"Legendary",
+      "Type":"Bag",
+      "Carrying Capacity":161
+   },
+   "101":{
+      "Name":"Witchy Hat",
+      "Slot":"head",
+      "Rarity":"Legendary",
+      "Type":"Big Hat",
+      "Vision Range":49.4,
+      "HP Regen":3.28
+   },
+   "102":{
+      "Name":"Witchy Cloak",
+      "Slot":"body",
+      "Rarity":"Legendary",
+      "Type":"Dress",
+      "Carrying Capacity":76,
+      "AP Regen":1.1
+   },
+   "103":{
+      "Name":"Witchy Wand",
+      "Slot":"hands",
+      "Rarity":"Mythical",
+      "Type":"Ranged Weapon",
+      "Ranged Power":217.5,
+      "AP Cost Multiplier":1.5
+   },
+   "104":{
+      "Name":"Portal Mage Helmet",
+      "Slot":"head",
+      "Rarity":"Legendary",
+      "Type":"Helmet",
+      "Armor Power":55.9,
+      "AP Capacity":48.4
+   },
+   "105":{
+      "Name":"Portal Mage Armor",
+      "Slot":"body",
+      "Rarity":"Legendary",
+      "Type":"Heavy Armor",
+      "Armor Power":104
+   },
+   "106":{
+      "Name":"Portal Mage Axe",
+      "Slot":"hands",
+      "Rarity":"Legendary",
+      "Type":"Melee Weapon",
+      "Melee Power":250.5,
+      "AP Cost Multiplier":1.4
+   },
+   "107":{
+      "Name":"Portal Mage Black Axe",
+      "Slot":"hands",
+      "Rarity":"Godlike",
+      "Type":"Melee Weapon",
+      "Melee Power":401,
+      "AP Cost Multiplier":1.6
+   },
+   "108":{
+      "Name":"Rasta Hat",
+      "Slot":"head",
+      "Rarity":"Uncommon",
+      "Type":"Knit Hat",
+      "HP Capacity":180,
+      "Movement Speed":1.33
+   },
+   "109":{
+      "Name":"Rasta Shirt",
+      "Slot":"body",
+      "Rarity":"Uncommon",
+      "Type":"T-Shirt",
+      "AP Regen":0.36,
+      "Road Speed":0
+   },
+   "110":{
+      "Name":"Jamaican Flag",
+      "Slot":"hands",
+      "Rarity":"Rare",
+      "Type":"Sign",
+      "Evasion":0.019,
+      "Luck":0.067
+   },
+   "111":{
+      "Name":"Hazmat Hood",
+      "Slot":"head",
+      "Rarity":"Legendary",
+      "Type":"Helmet",
+      "Armor Power":49.4,
+      "AP Capacity":54.7
+   },
+   "112":{
+      "Name":"Hazmat Suit",
+      "Slot":"body",
+      "Rarity":"Legendary",
+      "Type":"Protective Suit",
+      "Alchemica Speed":0,
+      "HP Regen":2.9
+   },
+   "113":{
+      "Name":"Uranium Rod",
+      "Slot":"hands",
+      "Rarity":"Godlike",
+      "Type":"Artifact",
+      "Luck":0.114,
+      "HP Regen":6.32
+   },
+   "114":{
+      "Name":"Red Hawaiian Shirt",
+      "Slot":"body",
+      "Rarity":"Mythical",
+      "Type":"Dress Shirt",
+      "Armor Power":70.3,
+      "HP Regen":4.67
+   },
+   "115":{
+      "Name":"Blue Hawaiian Shirt",
+      "Slot":"body",
+      "Rarity":"Legendary",
+      "Type":"Dress Shirt",
+      "Armor Power":53.3,
+      "HP Regen":3.04
+   },
+   "116":{
+      "Name":"Coconut",
+      "Slot":"hands",
+      "Rarity":"Rare",
+      "Type":"Healthy Edible",
+      "HP Regen":4.2
+   },
+   "117":{
+      "Name":"Cool shades",
+      "Slot":"eyes",
+      "Rarity":"Common",
+      "Type":"Shades",
+      "Vision Range":10.3,
+      "AP Capacity":9.76
+   },
+   "118":{
+      "Name":"Water Jug",
+      "Slot":"hands",
+      "Rarity":"Legendary",
+      "Type":"Healthy Beverage",
+      "HP Capacity":1040
+   },
+   "119":{
+      "Name":"Baby Bottle",
+      "Slot":"hands",
+      "Rarity":"Legendary",
+      "Type":"Healthy Beverage",
+      "HP Capacity":1050
+   },
+   "120":{
+      "Name":"Martini",
+      "Slot":"hands",
+      "Rarity":"Legendary",
+      "Type":"Alcoholic Beverage",
+      "Luck":0.082,
+      "HP Capacity":507
+   },
+   "121":{
+      "Name":"Wine",
+      "Slot":"hands",
+      "Rarity":"Rare",
+      "Type":"Alcoholic Beverage",
+      "Luck":0.057,
+      "HP Capacity":368
+   },
+   "122":{
+      "Name":"Milkshake",
+      "Slot":"hands",
+      "Rarity":"Mythical",
+      "Type":"Healthy Beverage",
+      "HP Capacity":1480
+   },
+   "123":{
+      "Name":"Apple Juice",
+      "Slot":"hands",
+      "Rarity":"Uncommon",
+      "Type":"Healthy Beverage",
+      "HP Capacity":402
+   },
+   "124":{
+      "Name":"Beer Helmet",
+      "Slot":"head",
+      "Rarity":"Mythical",
+      "Type":"Alcoholic Beverage",
+      "Luck":0.103,
+      "HP Capacity":722
+   },
+   "125":{
+      "Name":"Track Suit",
+      "Slot":"body",
+      "Rarity":"Legendary",
+      "Type":"Sportswear",
+      "Movement Speed":2.81,
+      "AP Regen":1.16
+   },
+   "130":{
+      "Name":"Fireball",
+      "Slot":"hands",
+      "Rarity":"Common",
+      "Type":"Ranged Weapon",
+      "Ranged Power":33.05,
+      "AP Cost Multiplier":1.1
+   },
+   "131":{
+      "Name":"Dragon Horns",
+      "Slot":"head",
+      "Rarity":"Uncommon",
+      "Type":"Body Part",
+      "HP Capacity":190,
+      "AP Regen":0.421
+   },
+   "132":{
+      "Name":"Dragon Wings",
+      "Slot":"body",
+      "Rarity":"Rare",
+      "Type":"Wings",
+      "Movement Speed":2,
+      "Evasion":0.022
+   },
+   "133":{
+      "Name":"Pointy Horns",
+      "Slot":"head",
+      "Rarity":"Legendary",
+      "Type":"Body Part",
+      "HP Capacity":494,
+      "AP Regen":1.1
+   },
+   "134":{
+      "Name":"L2 Sign",
+      "Slot":"right hand",
+      "Rarity":"Common",
+      "Type":"Sign",
+      "Evasion":0.006,
+      "Luck":0.019
+   },
+   "135":{
+      "Name":"Polygon Shirt",
+      "Slot":"body",
+      "Rarity":"Uncommon",
+      "Type":"T-Shirt",
+      "AP Regen":0.43,
+      "Road Speed":0
+   },
+   "136":{
+      "Name":"Polygon Cap",
+      "Slot":"head",
+      "Rarity":"Rare",
+      "Type":"Cap",
+      "AP Regen":0.753,
+      "Luck":0.056
+   },
+   "137":{
+      "Name":"Vote Sign",
+      "Slot":"right hand",
+      "Rarity":"Common",
+      "Type":"Sign",
+      "Evasion":0.006,
+      "Luck":0.021
+   },
+   "138":{
+      "Name":"Snapshot Shirt",
+      "Slot":"body",
+      "Rarity":"Uncommon",
+      "Type":"T-Shirt",
+      "AP Regen":0.38,
+      "Road Speed":0
+   },
+   "139":{
+      "Name":"Snapshot Cap",
+      "Slot":"head",
+      "Rarity":"Rare",
+      "Type":"Cap",
+      "AP Regen":0.665,
+      "Luck":0.063
+   },
+   "140":{
+      "Name":"Elf Ears",
+      "Slot":"face",
+      "Rarity":"Common",
+      "Type":"Body Part",
+      "HP Capacity":108,
+      "AP Regen":0.186
+   },
+   "141":{
+      "Name":"Gemstone Ring",
+      "Slot":"hands",
+      "Rarity":"Uncommon",
+      "Type":"Jewelry",
+      "Luck":0.043,
+      "Carrying Capacity":18.6
+   },
+   "142":{
+      "Name":"Princess Tiara",
+      "Slot":"head",
+      "Rarity":"Rare",
+      "Type":"Jewelry",
+      "Luck":0.065,
+      "Carrying Capacity":37.2
+   },
+   "143":{
+      "Name":"Gold Necklace",
+      "Slot":"body",
+      "Rarity":"Legendary",
+      "Type":"Jewelry",
+      "Luck":0.086,
+      "Carrying Capacity":74.4
+   },
+   "144":{
+      "Name":"Princess Hair",
+      "Slot":"head",
+      "Rarity":"Mythical",
+      "Type":"Long Hair",
+      "Evasion":0.048,
+      "HP Capacity":688
+   },
+   "145":{
+      "Name":"Godli Locks",
+      "Slot":"head",
+      "Rarity":"Godlike",
+      "Type":"Long Hair",
+      "Evasion":0.057,
+      "HP Capacity":1050
+   },
+   "146":{
+      "Name":"Imperial Moustache",
+      "Slot":"face",
+      "Rarity":"Common",
+      "Type":"Facial Hair",
+      "Evasion":0.005,
+      "Alchemica Speed":0
+   },
+   "147":{
+      "Name":"Tiny Crown",
+      "Slot":"head",
+      "Rarity":"Uncommon",
+      "Type":"Jewelry",
+      "Luck":0.036,
+      "Carrying Capacity":22.2
+   },
+   "148":{
+      "Name":"Royal Scepter",
+      "Slot":"hands",
+      "Rarity":"Rare",
+      "Type":"Melee Weapon",
+      "Melee Power":175.5,
+      "AP Cost Multiplier":1.3
+   },
+   "149":{
+      "Name":"Royal Crown",
+      "Slot":"head",
+      "Rarity":"Legendary",
+      "Type":"Jewelry",
+      "Luck":0.082,
+      "Carrying Capacity":78
+   },
+   "150":{
+      "Name":"Royal Robes",
+      "Slot":"body",
+      "Rarity":"Mythical",
+      "Type":"Robe",
+      "AP Capacity":79.6,
+      "Carrying Capacity":140
+   },
+   "151":{
+      "Name":"Common Rofl",
+      "Slot":"pet",
+      "Rarity":"Common",
+      "Type":"Animal",
+      "Alchemica Speed":0,
+      "AP Capacity":9.3
+   },
+   "152":{
+      "Name":"Uncommon Rofl",
+      "Slot":"pet",
+      "Rarity":"Uncommon",
+      "Type":"Animal",
+      "Alchemica Speed":0,
+      "AP Capacity":19.5
+   },
+   "153":{
+      "Name":"Rare Rofl",
+      "Slot":"pet",
+      "Rarity":"Rare",
+      "Type":"Animal",
+      "Alchemica Speed":0,
+      "AP Capacity":34.1
+   },
+   "154":{
+      "Name":"Legendary Rofl",
+      "Slot":"pet",
+      "Rarity":"Legendary",
+      "Type":"Animal",
+      "Alchemica Speed":0,
+      "AP Capacity":48.4
+   },
+   "155":{
+      "Name":"Mythical Rofl",
+      "Slot":"pet",
+      "Rarity":"Mythical",
+      "Type":"Animal",
+      "Alchemica Speed":0,
+      "AP Capacity":68.8
+   },
+   "156":{
+      "Name":"Godlike Rofl",
+      "Slot":"pet",
+      "Rarity":"Godlike",
+      "Type":"Animal",
+      "Alchemica Speed":0,
+      "AP Capacity":111
+   },
+   "157":{
+      "Name":"Lil Pump Goatee",
+      "Slot":"face",
+      "Rarity":"Uncommon",
+      "Type":"Facial Hair",
+      "Evasion":0.011,
+      "Alchemica Speed":0
+   },
+   "158":{
+      "Name":"Lil Pump Drank",
+      "Slot":"hands",
+      "Rarity":"Rare",
+      "Type":"Alcoholic Beverage",
+      "Luck":0.062,
+      "HP Capacity":341
+   },
+   "159":{
+      "Name":"Lil Pump Shades",
+      "Slot":"eyes",
+      "Rarity":"Legendary",
+      "Type":"Shades",
+      "Vision Range":55.9,
+      "AP Capacity":48.4
+   },
+   "160":{
+      "Name":"Lil Pump Threads",
+      "Slot":"body",
+      "Rarity":"Mythical",
+      "Type":"Jacket",
+      "Carrying Capacity":143,
+      "HP Capacity":779
+   },
+   "161":{
+      "Name":"Lil Pump Dreads",
+      "Slot":"head",
+      "Rarity":"Godlike",
+      "Type":"Long Hair",
+      "Evasion":0.065,
+      "HP Capacity":930
+   },
+   "199":{
+      "Name":"Steampunk goggles",
+      "Slot":"eyes",
+      "Rarity":"Rare",
+      "Type":"Mask",
+      "Evasion":0.042
+   },
+   "200":{
+      "Name":"Steampunk trousers",
+      "Slot":"body",
+      "Rarity":"Uncommon",
+      "Type":"Pants",
+      "Carrying Capacity":21.5,
+      "Movement Speed":1.12
+   },
+   "201":{
+      "Name":"Mechanical claw",
+      "Slot":"hands",
+      "Rarity":"Legendary",
+      "Type":"Melee Weapon",
+      "Melee Power":250.5,
+      "AP Cost Multiplier":1.4
+   },
+   "202":{
+      "Name":"VR headset",
+      "Slot":"eyes",
+      "Rarity":"Mythical",
+      "Type":"Mask",
+      "Evasion":0.089
+   },
+   "203":{
+      "Name":"Gamer jacket",
+      "Slot":"body",
+      "Rarity":"Rare",
+      "Type":"Jacket",
+      "Carrying Capacity":41,
+      "HP Capacity":341
+   },
+   "204":{
+      "Name":"Game controller",
+      "Slot":"hands",
+      "Rarity":"Uncommon",
+      "Type":"Electronics",
+      "Evasion":0.012,
+      "AP Regen":0.39
+   },
+   "205":{
+      "Name":"Gotchi Mug",
+      "Slot":"hands",
+      "Rarity":"Common",
+      "Type":"Healthy Beverage",
+      "HP Capacity":200
+   },
+   "206":{
+      "Name":"Biker Helmet",
+      "Slot":"head",
+      "Rarity":"Rare",
+      "Type":"Helmet",
+      "Armor Power":37.6,
+      "AP Capacity":32.6
+   },
+   "207":{
+      "Name":"Biker Jacket",
+      "Slot":"body",
+      "Rarity":"Uncommon",
+      "Type":"Jacket",
+      "Carrying Capacity":21.5,
+      "HP Capacity":186
+   },
+   "208":{
+      "Name":"Aviators",
+      "Slot":"eyes",
+      "Rarity":"Uncommon",
+      "Type":"Shades",
+      "Vision Range":19,
+      "AP Capacity":21.1
+   },
+   "209":{
+      "Name":"Horsehoe Mustache",
+      "Slot":"face",
+      "Rarity":"Legendary",
+      "Type":"Facial Hair",
+      "Evasion":0.034,
+      "Alchemica Speed":0
+   },
+   "211":{
+      "Name":"Guy Fawkes Mask",
+      "Slot":"head",
+      "Rarity":"Common",
+      "Type":"Mask",
+      "Evasion":0.012
+   },
+   "212":{
+      "Name":"1337 Laptop",
+      "Slot":"hands",
+      "Rarity":"Mythical",
+      "Type":"Electronics",
+      "Evasion":0.04,
+      "AP Regen":1.64
+   },
+   "213":{
+      "Name":"H4xx0r Shirt ",
+      "Slot":"body",
+      "Rarity":"Legendary",
+      "Type":"T-Shirt",
+      "AP Regen":1.12,
+      "Road Speed":0
+   },
+   "214":{
+      "Name":"Matrix Eyes",
+      "Slot":"eyes",
+      "Rarity":"Godlike",
+      "Type":"Eye",
+      "Vision Range":108,
+      "HP Capacity":930
+   },
+   "215":{
+      "Name":"Cyborg Eye",
+      "Slot":"eyes",
+      "Rarity":"Legendary",
+      "Type":"Eye",
+      "Vision Range":49.4,
+      "HP Capacity":547
+   },
+   "216":{
+      "Name":"Rainbow Vomit",
+      "Slot":"face",
+      "Rarity":"Mythical",
+      "Type":"Unhealthy Edible",
+      "AP Regen":2.96
+   },
+   "217":{
+      "Name":"Energy Gun",
+      "Slot":"hands",
+      "Rarity":"Mythical",
+      "Type":"Ranged Weapon",
+      "Ranged Power":217.5,
+      "AP Cost Multiplier":1.5
+   },
+   "218":{
+      "Name":"Mohawk",
+      "Slot":"head",
+      "Rarity":"Uncommon",
+      "Type":"Hair",
+      "Evasion":0.011,
+      "HP Regen":1.26
+   },
+   "219":{
+      "Name":"Mutton Chops",
+      "Slot":"face",
+      "Rarity":"Rare",
+      "Type":"Facial Hair",
+      "Evasion":0.019,
+      "Alchemica Speed":0
+   },
+   "220":{
+      "Name":"Punk Shirt",
+      "Slot":"body",
+      "Rarity":"Legendary",
+      "Type":"T-Shirt",
+      "AP Regen":0.936,
+      "Road Speed":0
+   },
+   "221":{
+      "Name":"Pirate Hat",
+      "Slot":"head",
+      "Rarity":"Common",
+      "Type":"Big Hat",
+      "Vision Range":10.3,
+      "HP Regen":0.585
+   },
+   "222":{
+      "Name":"Pirate Coat",
+      "Slot":"body",
+      "Rarity":"Uncommon",
+      "Type":"Jacket",
+      "Carrying Capacity":20.5,
+      "HP Capacity":195
+   },
+   "223":{
+      "Name":"Hook Hand",
+      "Slot":"hands",
+      "Rarity":"Uncommon",
+      "Type":"Melee Weapon",
+      "Melee Power":100,
+      "AP Cost Multiplier":1.2
+   },
+   "224":{
+      "Name":"Pirate Patch",
+      "Slot":"eyes",
+      "Rarity":"Rare",
+      "Type":"Eye",
+      "Vision Range":35.9,
+      "HP Capacity":341
+   },
+   "225":{
+      "Name":"Basketball",
+      "Slot":"hands",
+      "Rarity":"Common",
+      "Type":"Ranged Weapon",
+      "Ranged Power":33.05,
+      "AP Cost Multiplier":1.1
+   },
+   "226":{
+      "Name":"Red Headband",
+      "Slot":"head",
+      "Rarity":"Rare",
+      "Type":"Sportswear",
+      "Movement Speed":2.15,
+      "AP Regen":0.683
+   },
+   "227":{
+      "Name":"23 Jersey",
+      "Slot":"body",
+      "Rarity":"Rare",
+      "Type":"Sportswear",
+      "Movement Speed":2,
+      "AP Regen":0.737
+   },
+   "228":{
+      "Name":"10 Gallon Hat",
+      "Slot":"head",
+      "Rarity":"Common",
+      "Type":"Big Hat",
+      "Vision Range":10.8,
+      "HP Regen":0.558
+   },
+   "229":{
+      "Name":"Lasso",
+      "Slot":"hands",
+      "Rarity":"Uncommon",
+      "Type":"Ranged Weapon",
+      "Ranged Power":67,
+      "AP Cost Multiplier":1.2
+   },
+   "230":{
+      "Name":"Wraangler Jeans",
+      "Slot":"body",
+      "Rarity":"Common",
+      "Type":"Pants",
+      "Carrying Capacity":10.3,
+      "Movement Speed":0.585
+   },
+   "231":{
+      "Name":"Comfy Poncho",
+      "Slot":"body",
+      "Rarity":"Uncommon",
+      "Type":"Comfywear",
+      "Armor Power":18,
+      "Road Speed":0
+   },
+   "232":{
+      "Name":"Poncho Hoodie",
+      "Slot":"head",
+      "Rarity":"Common",
+      "Type":"Knit Hat",
+      "HP Capacity":90,
+      "Movement Speed":0.667
+   },
+   "233":{
+      "Name":"Uncommon Cacti",
+      "Slot":"pet",
+      "Rarity":"Uncommon",
+      "Type":"Plant",
+      "HP Regen":1.08,
+      "AP Regen":0.444
+   },
+   "234":{
+      "Name":"Shaaman Poncho",
+      "Slot":"body",
+      "Rarity":"Mythical",
+      "Type":"Comfywear",
+      "Armor Power":66.6,
+      "Road Speed":0
+   },
+   "235":{
+      "Name":"Shaaman Hoodie",
+      "Slot":"head",
+      "Rarity":"Legendary",
+      "Type":"Knit Hat",
+      "HP Capacity":468,
+      "Movement Speed":3.47
+   },
+   "236":{
+      "Name":"Blue Cacti",
+      "Slot":"pet",
+      "Rarity":"Rare",
+      "Type":"Plant",
+      "HP Regen":2.15,
+      "AP Regen":0.683
+   },
+   "237":{
+      "Name":"Mythical Cacti",
+      "Slot":"pet",
+      "Rarity":"Mythical",
+      "Type":"Plant",
+      "HP Regen":4.77,
+      "AP Regen":1.38
+   },
+   "238":{
+      "Name":"Godlike Cacti",
+      "Slot":"pet",
+      "Rarity":"Godlike",
+      "Type":"Plant",
+      "HP Regen":5.4,
+      "AP Regen":2.22
+   },
+   "239":{
+      "Name":"Wagie Cap",
+      "Slot":"head",
+      "Rarity":"Uncommon",
+      "Type":"Cap",
+      "AP Regen":0.38,
+      "Luck":0.042
+   },
+   "240":{
+      "Name":"Headphones",
+      "Slot":"face",
+      "Rarity":"Uncommon",
+      "Type":"Electronics",
+      "Evasion":0.013,
+      "AP Regen":0.372
+   },
+   "241":{
+      "Name":"WGMI Shirt",
+      "Slot":"body",
+      "Rarity":"Rare",
+      "Type":"T-Shirt",
+      "AP Regen":0.665,
+      "Road Speed":0
+   },
+   "242":{
+      "Name":"Yellow Manbun",
+      "Slot":"head",
+      "Rarity":"Legendary",
+      "Type":"Long Hair",
+      "Evasion":0.028,
+      "HP Capacity":578
+   },
+   "243":{
+      "Name":"Tinted Shades",
+      "Slot":"eyes",
+      "Rarity":"Rare",
+      "Type":"Shades",
+      "Vision Range":37.6,
+      "AP Capacity":32.6
+   },
+   "244":{
+      "Name":"V-Neck Shirt",
+      "Slot":"body",
+      "Rarity":"Rare",
+      "Type":"T-Shirt",
+      "AP Regen":0.718,
+      "Road Speed":0
+   },
+   "245":{
+      "Name":"Gecko Hat",
+      "Slot":"head",
+      "Rarity":"Rare",
+      "Type":"Hat",
+      "Vision Range":31.5,
+      "AP Regen":0.778
+   },
+   "246":{
+      "Name":"APY Shades",
+      "Slot":"eyes",
+      "Rarity":"Uncommon",
+      "Type":"Shades",
+      "Vision Range":21.5,
+      "AP Capacity":18.6
+   },
+   "247":{
+      "Name":"Up Arrow",
+      "Slot":"hands",
+      "Rarity":"Uncommon",
+      "Type":"Sign",
+      "Evasion":0.012,
+      "Luck":0.039
+   },
+   "248":{
+      "Name":"Up Only Shirt",
+      "Slot":"body",
+      "Rarity":"Uncommon",
+      "Type":"T-Shirt",
+      "AP Regen":0.41,
+      "Road Speed":0
+   },
+   "249":{
+      "Name":"Gecko Eyes",
+      "Slot":"eyes",
+      "Rarity":"Rare",
+      "Type":"Eye",
+      "Vision Range":31.5,
+      "HP Capacity":389
+   },
+   "250":{
+      "Name":"CoinGecko Tee",
+      "Slot":"body",
+      "Rarity":"Rare",
+      "Type":"T-Shirt",
+      "AP Regen":0.63,
+      "Road Speed":0
+   },
+   "251":{
+      "Name":"Candy Jaar",
+      "Slot":"hands",
+      "Rarity":"Rare",
+      "Type":"Unhealthy Edible",
+      "AP Regen":1.4
+   },
+   "252":{
+      "Name":"Aastronaut Helmet",
+      "Slot":"head",
+      "Rarity":"Common",
+      "Type":"Helmet",
+      "Armor Power":10.3,
+      "AP Capacity":9.76
+   },
+   "253":{
+      "Name":"Aastronaut Suit",
+      "Slot":"body",
+      "Rarity":"Common",
+      "Type":"Protective Suit",
+      "Alchemica Speed":0,
+      "HP Regen":0.585
+   },
+   "254":{
+      "Name":"uGOTCHI Token",
+      "Slot":"right hand",
+      "Rarity":"Common",
+      "Type":"Token",
+      "Luck":0.021,
+      "Alchemica Speed":0
+   },
+   "255":{
+      "Name":"Space Helmet",
+      "Slot":"head",
+      "Rarity":"Legendary",
+      "Type":"Helmet",
+      "Armor Power":53.3,
+      "AP Capacity":50.7
+   },
+   "256":{
+      "Name":"Lil Bubble Space Suit",
+      "Slot":"body",
+      "Rarity":"Legendary",
+      "Type":"Protective Suit",
+      "Alchemica Speed":0,
+      "HP Regen":3.04
+   },
+   "257":{
+      "Name":"Bitcoin Guitar",
+      "Slot":"hands",
+      "Rarity":"Legendary",
+      "Type":"Melee Weapon",
+      "Melee Power":250.5,
+      "AP Cost Multiplier":1.4
+   },
+   "258":{
+      "Name":"Taoist Robe",
+      "Slot":"body",
+      "Rarity":"Godlike",
+      "Type":"Robe",
+      "AP Capacity":90,
+      "Carrying Capacity":333
+   },
+   "259":{
+      "Name":"Bushy Eyebrows",
+      "Slot":"eyes",
+      "Rarity":"Godlike",
+      "Type":"Eye",
+      "Vision Range":90,
+      "HP Capacity":1110
+   },
+   "260":{
+      "Name":"Beard of Wisdom",
+      "Slot":"face",
+      "Rarity":"Godlike",
+      "Type":"Facial Hair",
+      "Evasion":0.054,
+      "Alchemica Speed":0
+   },
+   "261":{
+      "Name":"Aantenna Bot",
+      "Slot":"pet",
+      "Rarity":"Mythical",
+      "Type":"Electronics",
+      "Evasion":0.048,
+      "AP Regen":1.38
+   },
+   "262":{
+      "Name":"Radar Eyes",
+      "Slot":"eyes",
+      "Rarity":"Mythical",
+      "Type":"Eye",
+      "Vision Range":79.6,
+      "HP Capacity":688
+   },
+   "263":{
+      "Name":"Signal Headset",
+      "Slot":"face",
+      "Rarity":"Mythical",
+      "Type":"Electronics",
+      "Evasion":0.046,
+      "AP Regen":1.44
+   },
+   "292":{
+      "Name":"Brunette Ponytail",
+      "Slot":"head",
+      "Rarity":"Common",
+      "Type":"Long Hair",
+      "Evasion":0.005,
+      "HP Capacity":111
+   },
+   "293":{
+      "Name":"Leather Tunic",
+      "Slot":"body",
+      "Rarity":"Common",
+      "Type":"Light Armor",
+      "Armor Power":9,
+      "Movement Speed":0.667
+   },
+   "294":{
+      "Name":"Bow and Arrow",
+      "Slot":"hands",
+      "Rarity":"Common",
+      "Type":"Ranged Weapon",
+      "Ranged Power":33.2,
+      "AP Cost Multiplier":1.1
+   },
+   "295":{
+      "Name":"Forked Beard",
+      "Slot":"face",
+      "Rarity":"Common",
+      "Type":"Facial Hair",
+      "Evasion":0.006,
+      "Alchemica Speed":0
+   },
+   "296":{
+      "Name":"Double-sided Axe",
+      "Slot":"hands",
+      "Rarity":"Uncommon",
+      "Type":"Melee Weapon",
+      "Melee Power":100.5,
+      "AP Cost Multiplier":1.2
+   },
+   "297":{
+      "Name":"Animal Skins",
+      "Slot":"body",
+      "Rarity":"Uncommon",
+      "Type":"Light Armor",
+      "Armor Power":18,
+      "Movement Speed":1.33
+   },
+   "298":{
+      "Name":"Horned Helmet",
+      "Slot":"head",
+      "Rarity":"Common",
+      "Type":"Helmet",
+      "Armor Power":9,
+      "AP Capacity":11.1
+   },
+   "299":{
+      "Name":"Longbow",
+      "Slot":"hands",
+      "Rarity":"Uncommon",
+      "Type":"Ranged Weapon",
+      "Ranged Power":67.5,
+      "AP Cost Multiplier":1.2
+   },
+   "300":{
+      "Name":"Feathered Cap",
+      "Slot":"head",
+      "Rarity":"Uncommon",
+      "Type":"Cap",
+      "AP Regen":0.36,
+      "Luck":0.044
+   },
+   "301":{
+      "Name":"Alluring Eyes",
+      "Slot":"eyes",
+      "Rarity":"Rare",
+      "Type":"Eye",
+      "Vision Range":33.3,
+      "HP Capacity":368
+   },
+   "302":{
+      "Name":"Geisha Headpiece",
+      "Slot":"head",
+      "Rarity":"Rare",
+      "Type":"Long Hair",
+      "Evasion":0.02,
+      "HP Capacity":368
+   },
+   "303":{
+      "Name":"Kimono",
+      "Slot":"body",
+      "Rarity":"Rare",
+      "Type":"Dress",
+      "Carrying Capacity":38,
+      "AP Regen":0.737
+   },
+   "304":{
+      "Name":"Paper Fan",
+      "Slot":"hands",
+      "Rarity":"Rare",
+      "Type":"Accessory",
+      "AP Capacity":33.3,
+      "Luck":0.063
+   },
+   "305":{
+      "Name":"Sus Butterfly",
+      "Slot":"pet",
+      "Rarity":"Legendary",
+      "Type":"Animal",
+      "Alchemica Speed":0,
+      "AP Capacity":50.7
+   },
+   "306":{
+      "Name":"Flower Studs",
+      "Slot":"face",
+      "Rarity":"Legendary",
+      "Type":"Jewelry",
+      "Luck":0.072,
+      "Carrying Capacity":88.9
+   },
+   "307":{
+      "Name":"Fairy Wings",
+      "Slot":"body",
+      "Rarity":"Legendary",
+      "Type":"Wings",
+      "Movement Speed":2.81,
+      "Evasion":0.035
+   },
+   "308":{
+      "Name":"Red Hair",
+      "Slot":"head",
+      "Rarity":"Legendary",
+      "Type":"Long Hair",
+      "Evasion":0.03,
+      "HP Capacity":547
+   },
+   "309":{
+      "Name":"Citaadel Helm",
+      "Slot":"head",
+      "Rarity":"Mythical",
+      "Type":"Helmet",
+      "Armor Power":79.6,
+      "AP Capacity":68.8
+   },
+   "310":{
+      "Name":"Plate Armor",
+      "Slot":"body",
+      "Rarity":"Mythical",
+      "Type":"Heavy Armor",
+      "Armor Power":148
+   },
+   "311":{
+      "Name":"Spirit Sword",
+      "Slot":"hands",
+      "Rarity":"Mythical",
+      "Type":"Melee Weapon",
+      "Melee Power":326,
+      "AP Cost Multiplier":1.5
+   },
+   "312":{
+      "Name":"Plate Shield",
+      "Slot":"hands",
+      "Rarity":"Mythical",
+      "Type":"Shield",
+      "Armor Power":79.6,
+      "HP Capacity":688
+   },
+   "313":{
+      "Name":"Kabuto Helmet",
+      "Slot":"head",
+      "Rarity":"Godlike",
+      "Type":"Helmet",
+      "Armor Power":90,
+      "AP Capacity":111
+   },
+   "314":{
+      "Name":"Yoroi Armor",
+      "Slot":"body",
+      "Rarity":"Godlike",
+      "Type":"Heavy Armor",
+      "Armor Power":201
+   },
+   "315":{
+      "Name":"Haanzo Katana",
+      "Slot":"hands",
+      "Rarity":"Godlike",
+      "Type":"Melee Weapon",
+      "Melee Power":401,
+      "AP Cost Multiplier":1.6
+   },
+   "350":{
+      "Name":"Pixelcraft Tee",
+      "Slot":"body",
+      "Rarity":"Common",
+      "Type":"T-Shirt",
+      "AP Regen":0.19,
+      "Road Speed":0
+   },
+   "351":{
+      "Name":"3D Glasses",
+      "Slot":"eyes",
+      "Rarity":"Common",
+      "Type":"Glasses",
+      "Vision Range":20.1
+   },
+   "352":{
+      "Name":"Pixelcraft Square",
+      "Slot":"hands",
+      "Rarity":"Common",
+      "Type":"Accessory",
+      "AP Capacity":9.5,
+      "Luck":0.021
+   },
+   "353":{
+      "Name":"Nimbus",
+      "Slot":"pet",
+      "Rarity":"Common",
+      "Type":"Vehicle",
+      "Road Speed":0,
+      "Movement Speed":0.585
+   },
+   "354":{
+      "Name":"Alchemica Apron",
+      "Slot":"body",
+      "Rarity":"Uncommon",
+      "Type":"Protective Suit",
+      "Alchemica Speed":0,
+      "HP Regen":1.17
+   },
+   "355":{
+      "Name":"Safety Glasses",
+      "Slot":"eyes",
+      "Rarity":"Rare",
+      "Type":"Mask",
+      "Evasion":0.042
+   },
+   "356":{
+      "Name":"Bandage",
+      "Slot":"face",
+      "Rarity":"Uncommon",
+      "Type":"Protective Suit",
+      "Alchemica Speed":0,
+      "HP Regen":1.33
+   },
+   "357":{
+      "Name":"Nail Gun",
+      "Slot":"hands",
+      "Rarity":"Rare",
+      "Type":"Ranged Weapon",
+      "Ranged Power":117.5,
+      "AP Cost Multiplier":1.3
+   },
+   "358":{
+      "Name":"Flaming Apron",
+      "Slot":"body",
+      "Rarity":"Legendary",
+      "Type":"Protective Suit",
+      "Alchemica Speed":0,
+      "HP Regen":3.28
+   },
+   "359":{
+      "Name":"Forge Goggles",
+      "Slot":"eyes",
+      "Rarity":"Legendary",
+      "Type":"Mask",
+      "Evasion":0.062
+   },
+   "360":{
+      "Name":"Geode Smasher",
+      "Slot":"hands",
+      "Rarity":"Legendary",
+      "Type":"Melee Weapon",
+      "Melee Power":250.5,
+      "AP Cost Multiplier":1.4
+   },
+   "361":{
+      "Name":"Geo",
+      "Slot":"pet",
+      "Rarity":"Legendary",
+      "Type":"Animal",
+      "Alchemica Speed":0,
+      "AP Capacity":54.7
+   },
+   "362":{
+      "Name":"FAKE Shirt",
+      "Slot":"body",
+      "Rarity":"Mythical",
+      "Type":"Comfywear",
+      "Armor Power":79.6,
+      "Road Speed":0
+   },
+   "363":{
+      "Name":"FAKE Beret",
+      "Slot":"head",
+      "Rarity":"Mythical",
+      "Type":"Big Hat",
+      "Vision Range":79.6,
+      "HP Regen":4.13
+   },
+   "364":{
+      "Name":"Paint Brush",
+      "Slot":"hands",
+      "Rarity":"Mythical",
+      "Type":"Ranged Weapon",
+      "Ranged Power":217.5,
+      "AP Cost Multiplier":1.5
+   },
+   "365":{
+      "Name":"Paint Palette",
+      "Slot":"hands",
+      "Rarity":"Mythical",
+      "Type":"Accessory",
+      "AP Capacity":79.6,
+      "Luck":0.093
+   },
+   "366":{
+      "Name":"Heavenly Robes",
+      "Slot":"body",
+      "Rarity":"Godlike",
+      "Type":"Robe",
+      "AP Capacity":108,
+      "Carrying Capacity":279
+   },
+   "367":{
+      "Name":"Eyes of Devotion",
+      "Slot":"eyes",
+      "Rarity":"Godlike",
+      "Type":"Eye",
+      "Vision Range":103,
+      "HP Capacity":976
+   },
+   "368":{
+      "Name":"Beard of Divinity",
+      "Slot":"face",
+      "Rarity":"Godlike",
+      "Type":"Facial Hair",
+      "Evasion":0.062,
+      "Alchemica Speed":0
+   },
+   "369":{
+      "Name":"Staff of Creation",
+      "Slot":"hands",
+      "Rarity":"Godlike",
+      "Type":"Ranged Weapon",
+      "Ranged Power":266.5,
+      "AP Cost Multiplier":1.6
+   }
+}
