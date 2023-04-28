@@ -1,5 +1,5 @@
 # Combat Stats Simulator
-This is a web application to calculate the total stats for your Gotchi, based on its traits and equipped wearables. The application is built using the Dash framework and uses data from a JSON file containing wearable items and their benefits.
+This is a web application to calculate the total stats for your Gotchi, based on its traits and equipped wearables. The application is built using the Dash framework and uses data from a JSON file containing wearable items and their benefits.  
 Try it on [combat-stats.herokuapp.com](combat-stats.herokuapp.com)
 
 # Features
