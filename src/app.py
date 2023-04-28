@@ -169,7 +169,7 @@ class Gotchi:
         if base:
             return 0
         else:
-            return (self.luck - 1) ** 2
+            return (self.luck ** 6)/100
 
     def calculate_hp_regen(self, base=False):
         if base:
@@ -270,33 +270,28 @@ def update_stats(NRG, AGG, SPK, BRN, BRS, head_item, face_item, eyes_item, pet_i
         if attribute_name is not None and benefit_name != 'Evasion':  # Exclude 'Evasion' from this loop
             gotchi.__dict__[attribute_name] += item_benefits[benefit_name]
 
-    total_evasion = gotchi.calculate_evasion() + item_benefits['Evasion']
-    gotchi.evasion = total_evasion
+    gotchi.evasion = gotchi.calculate_evasion() + item_benefits['Evasion']
 
     stats_rows = []
     for benefit_name in benefit_names:
         attribute_name = benefit_mapping.get(benefit_name)
         if attribute_name is not None:
-            base_value = round(base_gotchi.__dict__[attribute_name], 2)
-            trait_boost = round(trait_gotchi.__dict__[attribute_name] - base_value, 2)
-            total_value = round(gotchi.__dict__[attribute_name], 2)
+            base_value = round(base_gotchi.__dict__[attribute_name], 3)
+            trait_boost = round(trait_gotchi.__dict__[attribute_name] - base_value, 3)
+            total_value = round(gotchi.__dict__[attribute_name], 3)
         else:
             base_value = 0
             trait_boost = 0
-            total_value = round(item_boost, 2)
-        if benefit_name == 'Evasion':
-            base_value = round(base_value * 100, 2)
-            trait_boost = round(trait_boost * 100, 2)
-            item_boost = round(item_boost * 100, 2)
-            total_value = round(total_value * 100, 2)
-        item_boost = round(item_benefits[benefit_name], 2)
+            total_value = round(item_boost, 3)
+        item_boost = round(item_benefits[benefit_name], 3)
+        item_boost = round(item_benefits[benefit_name], 3)
         stats_rows.append(
             html.Tr([
                 html.Td(benefit_name, style={'width': '200px'}),
-                html.Td(f'{base_value}%') if benefit_name == 'Evasion' else html.Td(base_value),
-                html.Td(f'{trait_boost}%') if benefit_name == 'Evasion' else html.Td(trait_boost),
-                html.Td(f'{item_boost}%') if benefit_name == 'Evasion' else html.Td(item_boost),
-                html.Td(f'{total_value}%') if benefit_name == 'Evasion' else html.Td(total_value)
+                html.Td(base_value),
+                html.Td(trait_boost),
+                html.Td(item_boost),
+                html.Td(total_value)
             ])
         )
 
