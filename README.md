@@ -1,13 +1,11 @@
 # Combat Stats Simulator
 This is a web application to calculate the total stats for your Gotchi, based on its traits and equipped wearables. The application is built using the Dash framework and uses data from a JSON file containing wearable items and their benefits.
+Try it on [combat-stats.herokuapp.com](combat-stats.herokuapp.com)
 
 # Features
 Enter Gotchi traits (NRG, AGG, SPK, BRN, BRS) and view their base stats  
 Select wearables from dropdown menus and view their individual benefits  
 Automatically calculates the total stats for your Gotchi, including the effects of traits and wearables  
-
-# Deployment
-This code is deployed on [combat-stats.herokuapp.com](combat-stats.herokuapp.com)
 
 # Installation
 To run this application, you will need Python 3.6 or later. Please follow the instructions below to set up the application on your local machine:
