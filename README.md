@@ -7,7 +7,7 @@ Select wearables from dropdown menus and view their individual benefits
 Automatically calculates the total stats for your Gotchi, including the effects of traits and wearables  
 
 # Deployment
-This code is deployed on combat-stats.herokuapp.com
+This code is deployed on (combat-stats.herokuapp.com)[combat-stats.herokuapp.com]
 
 # Installation
 To run this application, you will need Python 3.6 or later. Please follow the instructions below to set up the application on your local machine:
